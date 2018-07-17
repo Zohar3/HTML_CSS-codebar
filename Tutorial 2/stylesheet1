@@ -1,0 +1,5 @@
+stylesheet
+  img {
+    margin: 0;
+    border: 0;
+  }

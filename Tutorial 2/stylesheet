@@ -1,0 +1,33 @@
+stylesheet
+<!DOCTYPE html>
+  <html>
+    img {
+      margin: 0;
+      border: 0;
+    }
+    <style>
+      body {
+        font-family: Helvetica, Arial, sans-serif;
+      }
+      ul {
+        list-style: none;
+      }
+      a {
+        color: #a369d5;
+        text-decoration: none;
+        /* border-bottom: 1px dotted #a369d5; */
+      }
+      .pictures {
+        margin: 10px auto;
+        /* how do I change the vertical spacing between pictures? */
+        width: 900px;
+      }
+      #logo {
+        margin: 0 auto 30px;
+        width: 200px;
+      }
+      .pictures li{
+        display: inline;
+        margin: 6px;
+      }
+    </style>

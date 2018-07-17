@@ -1,0 +1,47 @@
+
+img {
+  margin: 0;
+  border: 0;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.3;
+}
+#main {
+  /* width achieves centering */
+  width: 900px;
+  margin: 0 auto 40px;
+  padding: 0;
+}
+h2 {
+  color: black;
+}
+.links a {
+  color: blue;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: purple;
+  text-decoration: none;
+  /* border-bottom: 1px dotted #a369d5; */
+}
+.pictures {
+  margin: 10px auto;
+  /* how do I change the vertical spacing between pictures? */
+  width: 900px;
+}
+#logo {
+  margin: 0 auto 30px;
+  width: 200px;
+}
+.pictures li{
+  display: inline;
+  margin: 6px;
+}
+.links img {
+  margin: 15px 2px;
+  width: 439px;
+  border: 2px solid #b9b1bf;
+}
