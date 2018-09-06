@@ -10,6 +10,12 @@ body {
 #main {
   /* width achieves centering */
   width: 900px;
+  /* auto means that left/right adjust automatically to window size, always centering main
+  below is shorthand for:
+  margin-top: 0;
+margin-bottom: 40px;
+margin-right: auto;
+margin-left: auto;*/
   margin: 0 auto 40px;
   padding: 0;
 }
@@ -31,6 +37,7 @@ a {
   margin: 10px auto;
   /* how do I change the vertical spacing between pictures? */
   width: 900px;
+  padding: 0;
 }
 #logo {
   margin: 0 auto 30px;

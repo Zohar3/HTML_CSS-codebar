@@ -1,11 +1,11 @@
 stylesheet
 <!DOCTYPE html>
   <html>
+  <style>
     img {
       margin: 0;
       border: 0;
     }
-    <style>
       body {
         font-family: Helvetica, Arial, sans-serif;
       }
